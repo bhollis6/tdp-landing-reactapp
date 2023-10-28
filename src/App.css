@@ -1,0 +1,222 @@
+@font-face {
+    font-family: 'gill-sans-mt-italic';
+    src: url(components/GillSansMTKursiv.ttf);
+}
+
+/* Removed white border */
+html,
+body {
+	padding: 0;
+	margin: 0;
+    background-color: #364572;
+    
+}
+
+.App {
+	font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    color: #FFFFFF;
+    background-color: #364572;
+}
+
+/* TODO Make different background for different aspect ratios */
+.App-background {
+	background-image: url("./assets/tdpfinal2.svg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	height: 100vh;
+}
+
+/* Look to fix overflow issue */
+.App-body {
+    margin-right: 30%;
+    padding-top: 3%;
+    max-height: 100vh;
+    background-color: transparent;
+}
+
+.Form-main {
+	display: flex;
+	flex-direction: column;
+	padding: auto;
+	margin: auto;
+}
+
+.Container-grid {
+	display: grid;
+	grid-template-rows: repeat(4, auto);
+	grid-template-columns: (1, auto); 
+	/* gap: 2%; */
+    gap: 1.48vh;
+	width: 80%;
+	margin: 0 auto;
+    text-align: left;
+}
+.Container-title {
+	padding: 10px;
+    font-size: 6.84vh;
+    /* font-size: 400%; */
+    width: 80%;
+}
+
+.Container-paragraph1 {
+	padding: 10px;
+    /* font-size: 150%; */
+    font-size: 2.6vh;
+    text-align: justify; 
+}
+
+.Container-paragraph2 {
+	padding: 10px; 
+    /* font-size: 150%; */
+    font-size: 2.6vh; 
+    text-align: justify;  
+}
+
+.Container-form {
+    margin-top: 1%;
+	padding: 1%; 
+    border-radius: 5px;
+    background-color: #c1dcff;
+    color: #364572;
+    /* font-size: 120%; */
+    font-size: 2.05vh;
+    width: 60%;
+}
+
+.Container-link {
+    width: 62%;
+    text-align: center;
+}
+
+.Container-form-text {
+    color: #364572;
+    font-family: "Gill Sans Bold", sans-serif;
+    font-style: italic;
+}
+
+.Container-form-name{
+    background: #FFFFFF;
+    margin-top: 2%;
+    border: 0px;
+    border-radius: 3px;
+    margin-left: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    /* font-size: 80%; */
+    font-size: 1.6vh;
+}
+
+.Container-form-email{
+    background: #FFFFFF;
+    margin-top: 2%;
+    border: 0px;
+    border-radius: 3px;
+    margin-left: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 40%;
+    /* font-size: 80%; */
+    font-size: 1.6vh;
+}
+
+.Container-submit{
+    margin-top: 2%;
+    color: #364572;
+    cursor: pointer;
+    border-color: #364572;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 2vh;
+    /* font-size: 100%; */
+    cursor: pointer;
+    width: 100%;    
+    transition: background-color 0.3s ease, transform 0.2s ease-in-out;}
+
+.Container-submit:hover {
+    background-color: #ffbc92; 
+    transform: scale(1.02);
+}
+
+.TDP-link {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1020px) {
+    .Container-title {
+        padding: 10px;
+        font-size: 6.84vh;
+        width: 100%;
+    }
+
+.Container-form {
+    margin-top: .7%;
+	padding: .7%; 
+    border-radius: 5px;
+    background-color: #c1dcff;
+    color: #364572;
+    /* font-size: 120%; */
+    font-size: 2.05vh;
+    width: 70%;
+}
+}
+
+@media screen and (max-height: 895px) {
+    .App-background {
+        background-image: url("./assets/tdplaptop2.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        height: 100vh;
+    }
+  }
+
+
+
+  @media screen and (max-width: 767px) {
+    .App-background {
+        background-image: url("./assets/tdpIphoneXR.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        height: 100vh;
+    }
+    
+    .App-body {
+        margin-right: 0; 
+        padding: 25px;
+    }
+
+    .Container-grid {
+        grid-template-columns: 1fr;
+        width: 100%; 
+        gap: 20px;
+    }
+
+    .Container-title {
+        font-size: 4.5vh; 
+        padding: 0;
+    }
+
+    .Container-paragraph1,
+    .Container-paragraph2 {
+        font-size: 2vh;
+        padding: 0;
+    }
+
+    .Container-form {
+        width: 99%; 
+        font-size: 2vh;
+    }
+
+    
+    .Container-link {
+        width: 100%;
+        text-align: center;
+    }
+}

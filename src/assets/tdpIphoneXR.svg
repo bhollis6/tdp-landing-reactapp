@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="414"
+   zoomAndPan="magnify"
+   viewBox="0 0 310.5 671.999985"
+   height="896"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.0"
+   id="svg24"
+   sodipodi:docname="tdpIphoneXR.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.91629464"
+     inkscape:cx="206.81121"
+     inkscape:cy="709.92448"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="1076"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <defs
+     id="defs8">
+    <filter
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="da00210e88">
+      <feColorMatrix
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         color-interpolation-filters="sRGB"
+         id="feColorMatrix1" />
+    </filter>
+    <clipPath
+       id="25d688f8f0">
+      <path
+         d="M 0 0.539062 L 310 0.539062 L 310 671.457031 L 0 671.457031 Z M 0 0.539062 "
+         clip-rule="nonzero"
+         id="path1" />
+    </clipPath>
+    <clipPath
+       id="53908d401a">
+      <path
+         d="M 0 421 L 310 421 L 310 671.457031 L 0 671.457031 Z M 0 421 "
+         clip-rule="nonzero"
+         id="path2" />
+    </clipPath>
+    <mask
+       id="014be56cfb">
+      <g
+         filter="url(#da00210e88)"
+         id="g2">
+        <rect
+           x="-31.05"
+           width="372.6"
+           fill="#000000"
+           y="-67.199999"
+           height="806.399982"
+           fill-opacity="0.46"
+           id="rect2" />
+      </g>
+    </mask>
+    <clipPath
+       id="a08f5f0c3e">
+      <path
+         d="M 0 0.796875 L 310 0.796875 L 310 250.457031 L 0 250.457031 Z M 0 0.796875 "
+         clip-rule="nonzero"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       id="24050b66bb">
+      <path
+         d="M 310.5 0.796875 L 310.5 329.453125 L -273.78125 329.453125 C -79.019531 219.902344 115.738281 110.347656 310.5 0.796875 Z M 310.5 0.796875 "
+         clip-rule="nonzero"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="db0be4d10b">
+      <rect
+         x="0"
+         width="310"
+         y="0"
+         height="251"
+         id="rect4" />
+    </clipPath>
+    <clipPath
+       id="800f654b07">
+      <path
+         d="M 0 0.539062 L 103 0.539062 L 103 671.457031 L 0 671.457031 Z M 0 0.539062 "
+         clip-rule="nonzero"
+         id="path5" />
+    </clipPath>
+    <mask
+       id="3660a1fc08">
+      <g
+         filter="url(#da00210e88)"
+         id="g5">
+        <rect
+           x="-31.05"
+           width="372.6"
+           fill="#000000"
+           y="-67.199999"
+           height="806.399982"
+           fill-opacity="0.74"
+           id="rect5" />
+      </g>
+    </mask>
+    <clipPath
+       id="1ed440d1ba">
+      <path
+         d="M 0 0.539062 L 102 0.539062 L 102 671.457031 L 0 671.457031 Z M 0 0.539062 "
+         clip-rule="nonzero"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       id="3263aeb6c1">
+      <path
+         d="M -223.585938 -110.933594 L 101.984375 -48.726562 L -77.34375 889.8125 L -402.914062 827.605469 Z M -223.585938 -110.933594 "
+         clip-rule="nonzero"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       id="87a6017ca8">
+      <path
+         d="M -240.128906 858.707031 L 101.984375 -48.726562 L -223.585938 -110.933594 Z M -240.128906 858.707031 "
+         clip-rule="nonzero"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       id="ef851fdaa2">
+      <rect
+         x="0"
+         width="103"
+         y="0"
+         height="672"
+         id="rect8" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#25d688f8f0)"
+     id="g10">
+    <path
+       fill="#ffffff"
+       d="M 0 0.539062 L 310.5 0.539062 L 310.5 672.539062 L 0 672.539062 Z M 0 0.539062 "
+       fill-opacity="1"
+       fill-rule="nonzero"
+       id="path9" />
+    <path
+       fill="#364572"
+       d="M 0 0.539062 L 310.5 0.539062 L 310.5 672.539062 L 0 672.539062 Z M 0 0.539062 "
+       fill-opacity="1"
+       fill-rule="nonzero"
+       id="path10" />
+  </g>
+  <g
+     clip-path="url(#53908d401a)"
+     id="g17"
+     transform="translate(0,1.5)">
+    <g
+       mask="url(#014be56cfb)"
+       id="g16">
+      <g
+         transform="translate(0,421)"
+         id="g15">
+        <g
+           clip-path="url(#db0be4d10b)"
+           id="g14">
+          <g
+             clip-path="url(#a08f5f0c3e)"
+             id="g13">
+            <g
+               clip-path="url(#24050b66bb)"
+               id="g12">
+              <path
+                 fill="#5166a4"
+                 d="M -273.78125,0.796875 H 310.5 V 329.45312 h -584.28125 z m 0,0"
+                 fill-opacity="1"
+                 fill-rule="nonzero"
+                 id="path11" />
+              <path
+                 fill="#5166a4"
+                 d="M -273.78125,0.796875 H 310.5 V 329.45312 h -584.28125 z m 0,0"
+                 fill-opacity="1"
+                 fill-rule="nonzero"
+                 id="path12" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     clip-path="url(#800f654b07)"
+     id="g24">
+    <g
+       mask="url(#3660a1fc08)"
+       id="g23">
+      <g
+         transform="matrix(1, 0, 0, 1, 0, -0.000000000000001776)"
+         id="g22">
+        <g
+           clip-path="url(#ef851fdaa2)"
+           id="g21">
+          <g
+             clip-path="url(#1ed440d1ba)"
+             id="g20">
+            <g
+               clip-path="url(#3263aeb6c1)"
+               id="g19">
+              <g
+                 clip-path="url(#87a6017ca8)"
+                 id="g18">
+                <path
+                   fill="#ff914d"
+                   d="M -223.585938 -110.933594 L 101.984375 -48.726562 L -77.34375 889.8125 L -402.914062 827.605469 Z M -223.585938 -110.933594 "
+                   fill-opacity="1"
+                   fill-rule="nonzero"
+                   id="path17" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
