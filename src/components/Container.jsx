@@ -34,7 +34,7 @@ export default function Container() {
 				<a
 					href="https://www.thedeltaprinciple.com"
 					target="_blank"
-					rel="noopener"
+					rel="noreferrer"
 					className="TDP-link"
 				>
 					www.thedeltaprinciple.com
