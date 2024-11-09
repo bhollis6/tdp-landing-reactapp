@@ -32,7 +32,7 @@ export default function Container() {
 			</div>
 			<div className="Container-link">
 				<a
-					href="https://www.thedeltaprinciple.com"
+					href="https://tdplanding.netlify.app/"
 					target="_blank"
 					rel="noreferrer"
 					className="TDP-link"
